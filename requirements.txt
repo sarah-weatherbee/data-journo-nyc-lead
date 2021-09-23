@@ -5,6 +5,9 @@ pip
 
 # Plugins - uncomment to install:
 
+# - Find mean,median,mode
+datasette-statistics
+
 # - Plot latitude/longitude on a map:
 # datasette-cluster-map
 
