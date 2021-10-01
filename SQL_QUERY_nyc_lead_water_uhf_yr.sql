@@ -1,4 +1,4 @@
-/* nyc water resident submitted lead sample testing data analytics grouped by zip code and year.
+/* nyc water resident submitted lead sample testing data analytics grouped by uhf neighborhood name and year.
 Via 'UHF_code NOT IN ("#N/A", "999")' the query excludes zip codes that have no corresponding
 UHF code (#N/A); also excludes test rows I added UHF code (#999).
 Data from
